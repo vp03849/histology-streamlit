@@ -16,6 +16,8 @@ The application consists of:
 
 Users can upload a histology image through the frontend, which is sent to the Flask backend for processing.
 
+(Commit history was completely reset as a result of remote repository issues I've faced, so I force-pushed.)
+
 ## Architecture
 
 ```text
